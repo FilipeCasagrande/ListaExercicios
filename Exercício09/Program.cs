@@ -31,7 +31,6 @@
                     Console.WriteLine($"numero: {numeros}");
                 }
                 Console.ReadLine();
-
             }
         }
     }
